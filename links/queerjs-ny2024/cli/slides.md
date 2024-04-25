@@ -1,3 +1,3 @@
 ---
-redirect_to: https://drive.google.com/file/d/17TM_j0G1P_qkHvVZDRXjfOw2nkaEmmA-/view?usp=drivesdk
+redirect_to: https://drive.google.com/file/d/1HXKUbkBmlnEn4DizY6zE3FGjAli57WkS/view?usp=drivesdk
 ---
